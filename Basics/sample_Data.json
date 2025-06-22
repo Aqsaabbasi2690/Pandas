@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 12",
+    "description": "The Apple iPhone 12 features a 6.1-inch Super Retina XDR display.",
+    "price": 999.00,
+    "category": "Electronics",
+    "image": "https://www.apple.com/newsroom/images/product/iphone/standard/pr_iphone12_lineup_color_silver_2up.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED 2X display.",
+    "price": 799.00,
+    "category": "Electronics",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-g990blvains/gallery/in-galaxy-s21-fe-g990-410712-sm-g990blvains-530932822.jpg"
+  },
+
+{
+  "id": 3,
+  "name": "Sony WH-1000XM4",
+  "description": "The Sony WH-1000XM4 are wireless noise-canceling headphones with superior sound quality.",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://www.sony.com/image/wh1000xm4_hero.jpg"
+},
+{
+  "id": 4,
+  "name": "Sony WH-1000XM4",
+  "description": "The Sony WH-1000XM4 are wireless noise-canceling headphones with superior sound quality.",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://www.sony.com/image/wh1000xm4_hero.jpg"
+},
+{
+  "id": 5,
+  "name": "Sony WH-1000XM4",
+  "description": "The Sony WH-1000XM4 are wireless noise-canceling headphones with superior sound quality.",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://www.sony.com/image/wh1000xm4_hero.jpg"
+},
+{
+  "id": 6,
+  "name": "Sony WH-1000XM4",
+  "description": "The Sony WH-1000XM4 are wireless noise-canceling headphones with superior sound quality.",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://www.sony.com/image/wh1000xm4_hero.jpg"
+},
+{
+  "id": 7,
+  "name": "Sony WH-1000XM4",
+  "description": "The Sony WH-1000XM4 are wireless noise-canceling headphones with superior sound quality.",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://www.sony.com/image/wh1000xm4_hero.jpg"
+},
+{
+  "id": 8,
+  "name": "Sony WH-1000XM4",
+  "description": "The Sony WH-1000XM4 are wireless noise-canceling headphones with superior sound quality.",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://www.sony.com/image/wh1000xm4_hero.jpg"
+},
+{
+  "id": 9,
+  "name": "Sony WH-1000XM4",
+  "description": "The Sony WH-1000XM4 are wireless noise-canceling headphones with superior sound quality.",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://www.sony.com/image/wh1000xm4_hero.jpg"
+},
+{
+  "id": 10,
+  "name": "Sony WH-1000XM4",
+  "description": "The Sony WH-1000XM4 are wireless noise-canceling headphones with superior sound quality.",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://www.sony.com/image/wh1000xm4_hero.jpg"
+},
+{
+  "id": 11,
+  "name": "Sony WH-1000XM4",
+  "description": "The Sony WH-1000XM4 are wireless noise-canceling headphones with superior sound quality.",
+  "price": 349.99,
+  "category": "Electronics",
+  "image": "https://www.sony.com/image/wh1000xm4_hero.jpg"
+}
+]
